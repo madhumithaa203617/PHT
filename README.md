@@ -27,3 +27,4 @@ The `main.py` script contains a function `calculate_average(numbers)` which calc
 
 ## Example Pull Request Message
 When submitting your pull request, include a message like:
+Fix ZeroDivisionError by adding a check for an empty list in calculate_average().
